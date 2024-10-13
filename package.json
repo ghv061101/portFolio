@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 {
   "homepage": "https://github.com/ghv061101/portFolio",
+=======
+{
+>>>>>>> 144f1dd136e10f90b461603bad6baf59469c41b2
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -8,8 +12,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+<<<<<<< HEAD
     "predeploy": "npm run build",
    "deploy": "gh-pages -d dist",
+=======
+>>>>>>> 144f1dd136e10f90b461603bad6baf59469c41b2
     "lint": "eslint .",
     "preview": "vite preview"
   },
